@@ -1,0 +1,1 @@
+assay changes proof: a direct push to a protected branch
